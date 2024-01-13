@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.top-section{
+    background:linear-gradient(to right,#000000, #e24c27);
+    color: white;
+    text-align: center;
+    padding-block: 10px;
+}
+
+nav{
+    background-color: rgba(0,0,0,1);
+    text-align: center;
+    padding-block: 15px;
+    position: sticky;
+    top: 0;
+    color: white;
+}
+nav > h5{
+    display: inline-block;
+    margin-inline: 15px;
+}
